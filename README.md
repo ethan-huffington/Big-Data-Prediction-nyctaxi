@@ -7,7 +7,7 @@ This project covers the data preprocessing, model development and deployment of 
 - Simple model endpoint deployment
 
 ### Project Diagram:
-<img src="Images/architecture_overview.png" width="600" height="600">
+<img src="Images/architecture_overview.png" width="800" height="600">
 
 NYC Taxi Dataset:
 - AWS Open Data Registry: https://registry.opendata.aws/nyc-tlc-trip-records-pds/
