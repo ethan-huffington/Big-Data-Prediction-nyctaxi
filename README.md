@@ -1,6 +1,7 @@
 # Big Data: Fare Prediction w/ Spark, XGBoost and TensorFlow
 
-This project covers the data preprocessing, model development and deployment of models predicting the fare price for taxi rides in NYC. Topics covered include:
+This project covers the data exploration, preprocessing, model development and deployment of models predicting the fare price for taxi rides in NYC. Topics covered include:
+- NYC Taxi Dataset download and EDA in Databricks SQL environment utilizing Databricks visualizations & dashboarding 
 - Spark data processing and EMR cluster setup in the AWS ecosystem
 - Tensorflow and XGBoost model prototyping
 - Scaled ephemeral training in AWS SageMaker with custom training scripts
@@ -9,6 +10,8 @@ This project covers the data preprocessing, model development and deployment of 
 ### Project Diagram:
 <img src="Images/architecture_overview.png" width="800" height="600">
 
+### Databricks Dashboard Snapshot:
+<img src="Images/Databricks NYC Taxi Dashboard.png" width="800" height="600">
 NYC Taxi Dataset:
 - AWS Open Data Registry: https://registry.opendata.aws/nyc-tlc-trip-records-pds/
 - NYC Taxi Dataset Source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
